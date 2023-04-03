@@ -1,0 +1,16 @@
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.exe
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.deps.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.runtimeconfig.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.runtimeconfig.dev.json
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\bin\Debug\net5.0\ProjetoXadrez.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.csproj.AssemblyReference.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.AssemblyInfoInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.AssemblyInfo.cs
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\refint\ProjetoXadrez.dll
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.pdb
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ProjetoXadrez.genruntimeconfig.cache
+C:\Users\Vinicius\OneDrive\Área de Trabalho\Curso C#\Sessão-10 - Projeto-Sistema de Jogo de Xadrez\ProjetoXadrez\ProjetoXadrez\obj\Debug\net5.0\ref\ProjetoXadrez.dll

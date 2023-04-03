@@ -5,7 +5,7 @@ namespace tabuleiro
     enum Cor
     {
         Branca,
-        preta,
+        Preta,
         Amarela,
         Azul,
         Vermelha,
